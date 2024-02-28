@@ -1,2 +1,3 @@
-# simple_shell
-custome shell
+# simple_shell Project
+
+Author : abdisaDev@gmail.com or lejyoseph@gmail.com
